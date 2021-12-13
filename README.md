@@ -21,20 +21,17 @@ Você pode dar o player, parar e seguir para a próxima música.
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/cellyyoliveira/playerMusica
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto projeto_player_musica
+cd projeto_player_musica
 
-# instalar dependências
-yarn install
+# Clicar no index.html
 
-# executar o projeto
-yarn start
+# O projeto irá abrir no Chrome e ao clicar no Play você poderá ouvir, pausar e avançar para a próxima música.
 ```
 
 # Autor
