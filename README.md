@@ -24,16 +24,14 @@ Você pode dar o player, parar e seguir para a próxima música.
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/cellyyoliveira/playerMusica
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto projeto_player_musica
+cd projeto_player_musica
 
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
+# acessar o arquivo index.html
+O navegador Chrome irá abrir o projeto, você poderá navegar por três músicas
+Clicando em Play, Pause, Anterior e Próximo.
 ```
 
 # Autor
