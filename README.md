@@ -8,8 +8,8 @@ A ideia é reproduzir um player que lembre a interface do Spotify, aula ministra
 A aplicação roda as músicas armazenadas dentro do projeto.
 Você pode dar o player, parar e seguir para a próxima música.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
+## Layout Web
+![Web](https://github.com/cellyyoliveira/playerMusica/blob/master/imagens/player.png)
 
 
 # Tecnologias utilizadas
