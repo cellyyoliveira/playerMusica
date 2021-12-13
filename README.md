@@ -19,7 +19,6 @@ Você pode dar o player, parar e seguir para a próxima música.
 # Como executar o projeto
 
 ```
-
 ## Front end web
 
 ```
@@ -32,6 +31,7 @@ cd projeto_player_musica
 # Clicar no index.html
 
 # O projeto irá abrir no Chrome e ao clicar no Play você poderá ouvir, pausar e avançar para a próxima música.
+
 ```
 
 # Autor
