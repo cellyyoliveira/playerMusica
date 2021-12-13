@@ -19,8 +19,8 @@ Você pode dar o player, parar e seguir para a próxima música.
 # Como executar o projeto
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
+## Acesso web
+
 
 ```bash
 # clonar repositório
