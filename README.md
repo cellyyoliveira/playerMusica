@@ -22,7 +22,7 @@ Você pode dar o player, parar e seguir para a próxima música.
 
 ## Front end web
 
-```bash
+```
 # clonar repositório
 git clone https://github.com/cellyyoliveira/playerMusica
 
